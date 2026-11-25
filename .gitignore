@@ -1,0 +1,29 @@
+# Local IDE state and compiler output
+**/Objects/
+**/Listings/
+**/.vscode/
+**/.idea/
+**/*.uvguix*
+**/*.uvoptx
+**/*.bak
+**/*.log
+**/JLinkSettings.ini
+**/JLinkLog.txt
+**/*.o
+**/*.d
+**/*.crf
+**/*.dep
+**/*.lnp
+**/*.map
+**/*.lst
+**/*.axf
+**/*.hex
+
+# SDK and debug-driver installers: obtain separately from TI
+/2024TI杯/Cloudczk_SDK/*.exe
+/2024TI杯/Cloudczk_XDS/*.exe
+/2024TI杯/MSP432E/MSP432E/4SDK/*.exe
+
+Thumbs.db
+Desktop.ini
+.DS_Store
